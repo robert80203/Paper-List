@@ -25,3 +25,11 @@
 ### Without_Error
 
 ### With_Error
+- [(NIPS23) Every Mistake Counts in Assemble](https://arxiv.org/pdf/2307.16453.pdf)
+- [(CVPR23) HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.pdf)
+- [(CVPR22) Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf)
+
+
+## Object_Localization
+- [(WACV23) TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos](https://openaccess.thecvf.com/content/WACV2023/papers/Belharbi_TCAM_Temporal_Class_Activation_Maps_for_Object_Localization_in_Weakly-Labeled_WACV_2023_paper.pdf)
+
