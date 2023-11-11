@@ -2,6 +2,7 @@
 
 - [Video Anomaly Detection](#Video_Anomaly_Detection)
 - [Temporal Action Localization](#Temporal_Action_Localization)
+- [Temporal Action Segmentation](#Temporal_Action_Segmentation)
 - [Procedural Learning Dataset](#Procedural_Learning_Dataset)
   * [Without Error](#Without_Error)
   * [Wit Error](#With_Error)
@@ -19,6 +20,9 @@
 
 ## Temporal_Action_Localization
 - [(ECCV22) ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)
+
+## Temporal_Action_Segmentation
+- [(ICCV23) Diffusion Action Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf)
 
 ## Procedural_Learning_Dataset
 
