@@ -35,6 +35,7 @@
 
 
 ## Object_Localization
+- [(Arxiv23) What, when, and where? - Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions](https://arxiv.org/pdf/2303.16990.pdf)
 - [(ICCV23) Self-Supervised Object Detection from Egocentric Videos](https://openaccess.thecvf.com/content/ICCV2023/papers/Akiva_Self-Supervised_Object_Detection_from_Egocentric_Videos_ICCV_2023_paper.pdf)
 - [(WACV23) TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos](https://openaccess.thecvf.com/content/WACV2023/papers/Belharbi_TCAM_Temporal_Class_Activation_Maps_for_Object_Localization_in_Weakly-Labeled_WACV_2023_paper.pdf)
 
