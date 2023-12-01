@@ -20,9 +20,17 @@
 
 ## Temporal_Action_Localization
 - [(ECCV22) ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)
+- [(ICCV23) Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
+- [(ICCV23) DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_DDG-Net_Discriminability-Driven_Graph_Network_for_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
+- [(ICCV23) Action Sensitivity Learning for Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Action_Sensitivity_Learning_for_Temporal_Action_Localization_ICCV_2023_paper.pdf)
+- [(ICCV23) Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Revisiting_Foreground_and_Background_Separation_in_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
 
 ## Temporal_Action_Segmentation
 - [(ICCV23) Diffusion Action Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf)
+### Unsupervised
+- [(CVPR22) Unsupervised Action Segmentation by Joint Representation Learning and Online Clustering](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)
+- 
+
 
 ## Procedural_Learning_Dataset
 
