@@ -35,6 +35,7 @@
 ## Procedural_Learning_Dataset
 
 ### Without_Error
+- [(???) IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](https://arxiv.org/pdf/2310.17323.pdf)
 
 ### With_Error
 - [(NIPS23) Every Mistake Counts in Assemble](https://arxiv.org/pdf/2307.16453.pdf)
