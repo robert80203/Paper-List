@@ -19,6 +19,7 @@
 - [(TPAMI21) A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://arxiv.org/pdf/2008.12328.pdf)
 
 ## Temporal_Action_Localization
+- [(???) TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055v1.pdf)
 - [(ECCV22) ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)
 - [(ICCV23) Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
 - [(ICCV23) DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_DDG-Net_Discriminability-Driven_Graph_Network_for_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
