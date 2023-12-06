@@ -5,7 +5,7 @@
 - [Temporal Action Segmentation](#Temporal_Action_Segmentation)
 - [Procedural Learning Dataset](#Procedural_Learning_Dataset)
   * [Without Error](#Without_Error)
-  * [Wit Error](#With_Error)
+  * [With Error](#With_Error)
 - [Object Localization_Detection](#Object_Localization_Detection)
 
 ## Video_Anomaly_Detection
