@@ -1,6 +1,6 @@
 # Paper-List
 
-- [Video Anomaly Detection](#Video_Anomaly_Detection)
+- [Anomaly Detection](#Anomaly_Detection)
 - [Temporal Action Localization](#Temporal_Action_Localization)
 - [Temporal Action Segmentation](#Temporal_Action_Segmentation)
 - [Procedural Learning Dataset](#Procedural_Learning_Dataset)
@@ -8,9 +8,14 @@
   * [With Error](#With_Error)
 - [Object Localization_Detection](#Object_Localization_Detection)
 - [Open-set Action Recognition](#Open-set_Action_Recognition)
+- [Out-of-distribution Detection](#Out-of-distribution_Detection)
 
-## Video_Anomaly_Detection
-
+## Anomaly_Detection
+### Anomaly_Detection_with_Diffusion_Model
+- [(ICCV23) Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
+- [(Arxiv23) Time Series Anomaly Detection using Diffusion-based Models](https://arxiv.org/pdf/2311.01452.pdf)
+- [(MICCAI22) Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
+### Video_Anomaly_Detection
 - [(CVPR23) Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Unbiased_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2023_paper.pdf)
 - [(CVPR23) Generating Anomalies for Video Anomaly Detection with Prompt-based Feature Mapping](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.pdf)
 - [(CVPR23) Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf)
@@ -62,4 +67,8 @@
 - [(Arxiv22) Human Activity Recognition in an Open World](https://arxiv.org/pdf/2212.12141.pdf)
 - [(ICCV21) Evidential Deep Learning for Open Set Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)
 
+## Out-of-distribution_Detection
+- [(Arxiv23) DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2308.02282.pdf)
+- [(MICCAI23 Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos)](https://arxiv.org/pdf/2311.00469.pdf)
+- [(CVPR19) Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)
 
