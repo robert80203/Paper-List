@@ -7,6 +7,7 @@
   * [Without Error](#Without_Error)
   * [With Error](#With_Error)
 - [Object Localization_Detection](#Object_Localization_Detection)
+- [Open-set Action Recognition](#Open-set_Action_Recognition)
 
 ## Video_Anomaly_Detection
 
@@ -52,5 +53,13 @@
 - [(Arxiv23) What, when, and where? - Self-Supervised Spatio-Temporal Grounding in Untrimmed Multi-Action Videos from Narrated Instructions](https://arxiv.org/pdf/2303.16990.pdf)
 - [(ICCV23) Self-Supervised Object Detection from Egocentric Videos](https://openaccess.thecvf.com/content/ICCV2023/papers/Akiva_Self-Supervised_Object_Detection_from_Egocentric_Videos_ICCV_2023_paper.pdf)
 - [(WACV23) TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos](https://openaccess.thecvf.com/content/WACV2023/papers/Belharbi_TCAM_Temporal_Class_Activation_Maps_for_Object_Localization_in_Weakly-Labeled_WACV_2023_paper.pdf)
+
+
+## Open-set_Action_Recognition
+- [(ICLR24) UNSUPERVISED OPEN-VOCABULARY ACTION RECOGNITION WITH AN AUTOREGRESSIVE MODEL](https://openreview.net/pdf?id=IryGDUHxDE)
+- [(CVPR23) Enlarging Instance-specific and Class-specific Information for Open-set Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Cen_Enlarging_Instance-Specific_and_Class-Specific_Information_for_Open-Set_Action_Recognition_CVPR_2023_paper.pdf)
+- [(CVPR23) Open Set Action Recognition via Multi-Label Evidential Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Open_Set_Action_Recognition_via_Multi-Label_Evidential_Learning_CVPR_2023_paper.pdf)
+- [(Arxiv22) Human Activity Recognition in an Open World](https://arxiv.org/pdf/2212.12141.pdf)
+- [(ICCV21) Evidential Deep Learning for Open Set Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)
 
 
