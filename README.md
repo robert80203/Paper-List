@@ -38,6 +38,7 @@
 - [(CVPR22) Unsupervised Action Segmentation by Joint Representation Learning and Online Clustering](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)
 - [(ICCV19) Weakly Supervised Energy-Based Learning for Action Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
 ### Weakly-supversied
+- [(ECCV22) Dual-Evidential Learning for Weakly-supervised Temporal Action Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640190.pdf)
 - [(CVPR22) Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)
 - [(ICCV19) Weakly Supervised Energy-Based Learning for Action Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
 
