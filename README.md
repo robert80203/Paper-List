@@ -9,6 +9,7 @@
 - [Object Localization_Detection](#Object_Localization_Detection)
 - [Open-set Action Recognition](#Open-set_Action_Recognition)
 - [Out-of-distribution Detection](#Out-of-distribution_Detection)
+- [Other interesting papers](#Other_Interesting_Papers)
 
 ## Anomaly_Detection
 ### Anomaly_Detection_with_Diffusion_Model
@@ -73,3 +74,6 @@
 - [(MICCAI23 Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos)](https://arxiv.org/pdf/2311.00469.pdf)
 - [(CVPR19) Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)
 
+
+## Other_Interesting_Papers
+- [SCIA23 Evidential Deep Learning for Class-Incremental Semantic Segmentation](https://arxiv.org/pdf/2212.02863.pdf) 
