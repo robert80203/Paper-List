@@ -64,6 +64,7 @@
 
 ## Open-set_Action_Recognition
 - [(ICLR24) UNSUPERVISED OPEN-VOCABULARY ACTION RECOGNITION WITH AN AUTOREGRESSIVE MODEL](https://openreview.net/pdf?id=IryGDUHxDE)
+- [(NIPS23) Opening the Vocabulary of Egocentric Actions](https://openreview.net/pdf?id=JzQ7QClAdF)
 - [(CVPR23) Enlarging Instance-specific and Class-specific Information for Open-set Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Cen_Enlarging_Instance-Specific_and_Class-Specific_Information_for_Open-Set_Action_Recognition_CVPR_2023_paper.pdf)
 - [(CVPR23) Open Set Action Recognition via Multi-Label Evidential Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Open_Set_Action_Recognition_via_Multi-Label_Evidential_Learning_CVPR_2023_paper.pdf)
 - [(Arxiv22) Human Activity Recognition in an Open World](https://arxiv.org/pdf/2212.12141.pdf)
