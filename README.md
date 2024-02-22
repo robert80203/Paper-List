@@ -3,6 +3,7 @@
 - [Anomaly Detection](#Anomaly_Detection)
 - [Temporal Action Localization](#Temporal_Action_Localization)
 - [Temporal Action Segmentation](#Temporal_Action_Segmentation)
+- [Temporal Procedural Planning](#Temporal_Procedural_Planning)
 - [Procedural Learning Dataset](#Procedural_Learning_Dataset)
   * [Without Error](#Without_Error)
   * [With Error](#With_Error)
