@@ -82,4 +82,5 @@
 
 
 ## Other_Interesting_Papers
-- [SCIA23 Evidential Deep Learning for Class-Incremental Semantic Segmentation](https://arxiv.org/pdf/2212.02863.pdf) 
+- [(SCIA23) Evidential Deep Learning for Class-Incremental Semantic Segmentation](https://arxiv.org/pdf/2212.02863.pdf)
+- [(Arxiv23) AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/pdf/2312.03816.pdf)
