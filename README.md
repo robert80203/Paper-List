@@ -14,6 +14,7 @@
 ## Anomaly_Detection
 ### Anomaly_Detection_with_Diffusion_Model
 - [(ICCV23) Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
+- [(ICIP23) EXPLORING DIFFUSION MODELS FOR UNSUPERVISED VIDEO ANOMALY DETECTION](https://arxiv.org/pdf/2304.05841.pdf) 
 - [(Arxiv23) Time Series Anomaly Detection using Diffusion-based Models](https://arxiv.org/pdf/2311.01452.pdf)
 - [(MICCAI22) Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
 ### Video_Anomaly_Detection
@@ -43,6 +44,9 @@
 - [(CVPR22) Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)
 - [(ICCV19) Weakly Supervised Energy-Based Learning for Action Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
 
+
+## Temporal_Procedural_Planning
+- [(CVPR23) PDPP: Projected Diffusion for Procedure Planning in Instructional Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_PDPPProjected_Diffusion_for_Procedure_Planning_in_Instructional_Videos_CVPR_2023_paper.pdf)
 
 ## Procedural_Learning_Dataset
 
