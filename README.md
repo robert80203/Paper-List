@@ -18,6 +18,7 @@
 - [(CVPR24) GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/pdf/2312.07322.pdf)
 - [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
 - [(CVPR23) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf)
+- [(ICCV23) Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
 
 
 ## Anomaly_Detection
