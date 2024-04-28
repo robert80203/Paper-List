@@ -19,7 +19,7 @@
 - [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
 - [(CVPR23) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf)
 - [(ICCV23) Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
-
+- [(CVPR22) High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
 
 ## Anomaly_Detection
 ### Anomaly_Detection_with_Diffusion_Model
