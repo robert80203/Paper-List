@@ -2,6 +2,7 @@
 
 
 - [Must_Read](#Must_Read)
+- [Diffusion](#Diffusion)
 - [Anomaly Detection](#Anomaly_Detection)
 - [Temporal Action Localization](#Temporal_Action_Localization)
 - [Temporal Action Segmentation](#Temporal_Action_Segmentation)
@@ -15,11 +16,14 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## Must_Read
+- [(CVPR24) Describing Differences in Image Sets with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Dunlap_Describing_Differences_in_Image_Sets_with_Natural_Language_CVPR_2024_paper.pdf)
+- [(CVPR24) Step Differences in Instructional Video](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagarajan_Step_Differences_in_Instructional_Video_CVPR_2024_paper.pdf)
+
+## Diffusion
 - [(CVPR24) GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/pdf/2312.07322.pdf)
-- [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
 - [(CVPR23) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Tune-A-Video_One-Shot_Tuning_of_Image_Diffusion_Models_for_Text-to-Video_Generation_ICCV_2023_paper.pdf)
-- [(ICCV23) Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
 - [(CVPR22) High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf)
+
 
 ## Anomaly_Detection
 ### Anomaly_Detection_with_Diffusion_Model
@@ -28,6 +32,7 @@
 - [(Arxiv23) Time Series Anomaly Detection using Diffusion-based Models](https://arxiv.org/pdf/2311.01452.pdf)
 - [(MICCAI22) Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
 ### Video_Anomaly_Detection
+- [(ICCV23) Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
 - [(CVPR23) Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Unbiased_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2023_paper.pdf)
 - [(CVPR23) Generating Anomalies for Video Anomaly Detection with Prompt-based Feature Mapping](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.pdf)
 - [(CVPR23) Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Sato_Prompt-Guided_Zero-Shot_Anomaly_Action_Recognition_Using_Pretrained_Deep_Skeleton_Features_CVPR_2023_paper.pdf)
@@ -35,6 +40,9 @@
 - [(CVPR22) Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.pdf)
 - [(ICCV21) A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_A_Hybrid_Video_Anomaly_Detection_Framework_via_Memory-Augmented_Flow_Reconstruction_ICCV_2021_paper.pdf)
 - [(TPAMI21) A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://arxiv.org/pdf/2008.12328.pdf)
+### Procedural_Error_Detection
+- [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
+
 
 ## Temporal_Action_Localization
 - [(???) TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055v1.pdf)
