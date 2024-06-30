@@ -18,6 +18,7 @@
 ## Must_Read
 - [(CVPR24) Describing Differences in Image Sets with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Dunlap_Describing_Differences_in_Image_Sets_with_Natural_Language_CVPR_2024_paper.pdf)
 - [(CVPR24) Step Differences in Instructional Video](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagarajan_Step_Differences_in_Instructional_Video_CVPR_2024_paper.pdf)
+- [(ICCV23) EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone](https://arxiv.org/pdf/2307.05463)
 
 ## Diffusion
 - [(CVPR24) GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/pdf/2312.07322.pdf)
