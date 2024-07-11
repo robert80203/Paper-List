@@ -2,6 +2,7 @@
 
 
 - [Must_Read](#Must_Read)
+- [Visual_Language_Model](Visual_Language_Model)
 - [Diffusion](#Diffusion)
 - [Anomaly Detection](#Anomaly_Detection)
 - [Temporal Action Localization](#Temporal_Action_Localization)
@@ -13,15 +14,21 @@
 - [Object Localization_Detection](#Object_Localization_Detection)
 - [Open-set Action Recognition](#Open-set_Action_Recognition)
 - [Out-of-distribution Detection](#Out-of-distribution_Detection)
+- [Fine-grained_Action_Dataset](#Fine-grained_Action_Dataset)
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
 - [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
+- [(CVPR24) Open-World Semantic Segmentation Including Class Similarity](https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf)
+
 
 ## Must_Read
-- [(CVPR24) Describing Differences in Image Sets with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Dunlap_Describing_Differences_in_Image_Sets_with_Natural_Language_CVPR_2024_paper.pdf)
-- [(CVPR24) Step Differences in Instructional Video](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagarajan_Step_Differences_in_Instructional_Video_CVPR_2024_paper.pdf)
+
+
+## Visual_Language_Model
+- [(NIPS23) Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
 - [(ICCV23) EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone](https://arxiv.org/pdf/2307.05463)
+- [(CVPR23) Learning Video Representations from Large Language Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Learning_Video_Representations_From_Large_Language_Models_CVPR_2023_paper.pdf)
 
 ## Diffusion
 - [(CVPR24) GenHowTo: Learning to Generate Actions and State Transformations from Instructional Videos](https://arxiv.org/pdf/2312.07322.pdf)
@@ -55,6 +62,7 @@
 - [(ICCV23) DDG-Net: Discriminability-Driven Graph Network for Weakly-supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Tang_DDG-Net_Discriminability-Driven_Graph_Network_for_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
 - [(ICCV23) Action Sensitivity Learning for Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Action_Sensitivity_Learning_for_Temporal_Action_Localization_ICCV_2023_paper.pdf)
 - [(ICCV23) Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Revisiting_Foreground_and_Background_Separation_in_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
+- [(ECCV22) Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)
 
 ## Temporal_Action_Segmentation
 - [(ICCV23) Diffusion Action Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf)
@@ -101,7 +109,15 @@
 - [(MICCAI23 Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos)](https://arxiv.org/pdf/2311.00469.pdf)
 - [(CVPR19) Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)
 
+## Fine-grained_Action_Dataset
+- [(CVPR2024) FineSports: A Multi-person Hierarchical Sports Video Dataset for Fine-grained Action Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_FineSports_A_Multi-person_Hierarchical_Sports_Video_Dataset_for_Fine-grained_Action_CVPR_2024_paper.pdf)
+- [(CVPR2020) FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding](https://arxiv.org/pdf/2004.06704)
+
+
 
 ## Other_Interesting_Papers
+- [(CVPR24) Describing Differences in Image Sets with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Dunlap_Describing_Differences_in_Image_Sets_with_Natural_Language_CVPR_2024_paper.pdf)
+- [(CVPR24) Step Differences in Instructional Video](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagarajan_Step_Differences_in_Instructional_Video_CVPR_2024_paper.pdf)
+- [(CVPR24) Learning Object State Changes in Videos: An Open-World Perspective](https://openaccess.thecvf.com/content/CVPR2024/papers/Xue_Learning_Object_State_Changes_in_Videos_An_Open-World_Perspective_CVPR_2024_paper.pdf)
 - [(SCIA23) Evidential Deep Learning for Class-Incremental Semantic Segmentation](https://arxiv.org/pdf/2212.02863.pdf)
 - [(Arxiv23) AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/pdf/2312.03816.pdf)
