@@ -15,6 +15,9 @@
 - [Out-of-distribution Detection](#Out-of-distribution_Detection)
 - [Other interesting papers](#Other_Interesting_Papers)
 
+## New papers
+- [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
+
 ## Must_Read
 - [(CVPR24) Describing Differences in Image Sets with Natural Language](https://openaccess.thecvf.com/content/CVPR2024/papers/Dunlap_Describing_Differences_in_Image_Sets_with_Natural_Language_CVPR_2024_paper.pdf)
 - [(CVPR24) Step Differences in Instructional Video](https://openaccess.thecvf.com/content/CVPR2024/papers/Nagarajan_Step_Differences_in_Instructional_Video_CVPR_2024_paper.pdf)
