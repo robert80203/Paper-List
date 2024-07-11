@@ -121,3 +121,4 @@
 - [(CVPR24) Learning Object State Changes in Videos: An Open-World Perspective](https://openaccess.thecvf.com/content/CVPR2024/papers/Xue_Learning_Object_State_Changes_in_Videos_An_Open-World_Perspective_CVPR_2024_paper.pdf)
 - [(SCIA23) Evidential Deep Learning for Class-Incremental Semantic Segmentation](https://arxiv.org/pdf/2212.02863.pdf)
 - [(Arxiv23) AVID: Any-Length Video Inpainting with Diffusion Model](https://arxiv.org/pdf/2312.03816.pdf)
+- [(ICCV23) Learning to Ground Instructional Articles in Videos through Narrations](https://openaccess.thecvf.com/content/ICCV2023/papers/Mavroudi_Learning_to_Ground_Instructional_Articles_in_Videos_through_Narrations_ICCV_2023_paper.pdf)
