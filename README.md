@@ -23,7 +23,7 @@
 ## New papers
 - [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
 - [(CVPR24) Open-World Semantic Segmentation Including Class Similarity](https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf)
-
+- [(CVPR24) PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)
 
 ## Must_Read
 
