@@ -21,6 +21,7 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
+- [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
 - [(NIPS24) Opening the Vocabulary of Egocentric Actions](https://arxiv.org/pdf/2308.11488)
 - [(CVPR24) Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf)
 - [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
