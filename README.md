@@ -21,11 +21,10 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
+- [(ICML23) CaptainCook4D: A dataset for understanding errors in procedural activities](https://arxiv.org/pdf/2312.14556)
 - [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
-- [(NIPS24) Opening the Vocabulary of Egocentric Actions](https://arxiv.org/pdf/2308.11488)
 - [(CVPR24) Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf)
 - [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
-- [(CVPR24) Open-World Semantic Segmentation Including Class Similarity](https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf)
 - [(CVPR24) PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)
 
 ## Must_Read
@@ -103,6 +102,7 @@
 
 
 ## Open-set_Action_Recognition
+- [(NIPS24) Opening the Vocabulary of Egocentric Actions](https://arxiv.org/pdf/2308.11488)
 - [(ICLR24) UNSUPERVISED OPEN-VOCABULARY ACTION RECOGNITION WITH AN AUTOREGRESSIVE MODEL](https://openreview.net/pdf?id=IryGDUHxDE)
 - [(NIPS23) Opening the Vocabulary of Egocentric Actions](https://openreview.net/pdf?id=JzQ7QClAdF)
 - [(CVPR23) Enlarging Instance-specific and Class-specific Information for Open-set Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Cen_Enlarging_Instance-Specific_and_Class-Specific_Information_for_Open-Set_Action_Recognition_CVPR_2023_paper.pdf)
@@ -111,6 +111,7 @@
 - [(ICCV21) Evidential Deep Learning for Open Set Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)
 
 ## Out-of-distribution_Detection
+- [(CVPR24) Open-World Semantic Segmentation Including Class Similarity](https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf)
 - [(Arxiv23) DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2308.02282.pdf)
 - [(MICCAI23 Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos)](https://arxiv.org/pdf/2311.00469.pdf)
 - [(CVPR19) Out-of-Distribution Detection for Generalized Zero-Shot Action Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mandal_Out-Of-Distribution_Detection_for_Generalized_Zero-Shot_Action_Recognition_CVPR_2019_paper.pdf)
