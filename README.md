@@ -48,6 +48,7 @@
 - [(Arxiv23) Time Series Anomaly Detection using Diffusion-based Models](https://arxiv.org/pdf/2311.01452.pdf)
 - [(MICCAI22) Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
 ### Video_Anomaly_Detection
+- [(CVPR24) Harnessing Large Language Models for Training-free Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)
 - [(ICCV23) Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
 - [(CVPR23) Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Unbiased_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2023_paper.pdf)
 - [(CVPR23) Generating Anomalies for Video Anomaly Detection with Prompt-based Feature Mapping](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Generating_Anomalies_for_Video_Anomaly_Detection_With_Prompt-Based_Feature_Mapping_CVPR_2023_paper.pdf)
