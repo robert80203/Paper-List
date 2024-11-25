@@ -21,8 +21,7 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
-- [(ICML23) CaptainCook4D: A dataset for understanding errors in procedural activities](https://arxiv.org/pdf/2312.14556)
-- [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
+- [(WACV24) ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf)
 - [(CVPR24) Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf)
 - [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
 - [(CVPR24) PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)
@@ -59,6 +58,7 @@
 - [(TPAMI21) A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://arxiv.org/pdf/2008.12328.pdf)
 ### Procedural_Error_Detection
 - [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
+- [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
 
 
 ## Temporal_Action_Localization
@@ -90,6 +90,7 @@
 
 
 ### With_Error
+- [(ICML23) CaptainCook4D: A dataset for understanding errors in procedural activities](https://arxiv.org/pdf/2312.14556)
 - [(???) IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](https://arxiv.org/pdf/2310.17323.pdf)
 - [(NIPS23) Every Mistake Counts in Assemble](https://arxiv.org/pdf/2307.16453.pdf)
 - [(CVPR23) HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.pdf)
