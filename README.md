@@ -27,7 +27,9 @@
 - [(CVPR24) PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)
 
 ## Must_Read
-
+- [(Arxiv24) Vision-Language Models as Success Detectors](https://arxiv.org/pdf/2303.07280)
+- [(Arxiv24) Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?](https://aclanthology.org/2023.findings-emnlp.824.pdf)
+- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
 
 ## Visual_Language_Model
 - [(NIPS23) Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
