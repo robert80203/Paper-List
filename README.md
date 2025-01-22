@@ -28,10 +28,12 @@
 
 ## Must_Read
 - [(Arxiv24) Vision-Language Models as Success Detectors](https://arxiv.org/pdf/2303.07280)
-- [(EMNLP23) Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?](https://aclanthology.org/2023.findings-emnlp.824.pdf)
-- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
 
-## Visual_Language_Model
+
+## Vision_Language_Model
+- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
+- [(ECCV24) LongVLM: Efficient Long Video Understanding via Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04936.pdf)
+- [(EMNLP23) Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?](https://aclanthology.org/2023.findings-emnlp.824.pdf)
 - [(NIPS23) Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
 - [(ICCV23) EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone](https://arxiv.org/pdf/2307.05463)
 - [(CVPR23) Learning Video Representations from Large Language Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Learning_Video_Representations_From_Large_Language_Models_CVPR_2023_paper.pdf)
