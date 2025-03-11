@@ -21,14 +21,15 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
-- [(WACV24) ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf)
-- [(CVPR24) Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf)
-- [(ECCV24) Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection?](https://arxiv.org/pdf/2312.02672)
-- [(CVPR24) PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs](https://openaccess.thecvf.com/content/CVPR2024/papers/Dorkenwald_PIN_Positional_Insert_Unlocks_Object_Localisation_Abilities_in_VLMs_CVPR_2024_paper.pdf)
 
 ## Must_Read
 - [(Arxiv24) Vision-Language Models as Success Detectors](https://arxiv.org/pdf/2303.07280)
 
+
+## Error Reasoning
+- [(NAACL25) ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding](https://arxiv.org/pdf/2410.22211)
+- [(NAACL25) LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](https://arxiv.org/pdf/2501.01767)
+- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
 
 ## Vision_Language_Model
 - [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
@@ -51,6 +52,7 @@
 - [(Arxiv23) Time Series Anomaly Detection using Diffusion-based Models](https://arxiv.org/pdf/2311.01452.pdf)
 - [(MICCAI22) Diffusion Models for Medical Anomaly Detection](https://arxiv.org/pdf/2203.04306.pdf)
 ### Video_Anomaly_Detection
+- [(ICASSP25) SUVAD: Semantic Understanding Based Video Anomaly Detection Using MLLM](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888431&tag=1)
 - [(CVPR24) Harnessing Large Language Models for Training-free Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Zanella_Harnessing_Large_Language_Models_for_Training-free_Video_Anomaly_Detection_CVPR_2024_paper.pdf)
 - [(ICCV23) Feature Prediction Diffusion Model for Video Anomaly Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Yan_Feature_Prediction_Diffusion_Model_for_Video_Anomaly_Detection_ICCV_2023_paper.pdf)
 - [(CVPR23) Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection](https://openaccess.thecvf.com/content/CVPR2023/papers/Lv_Unbiased_Multiple_Instance_Learning_for_Weakly_Supervised_Video_Anomaly_Detection_CVPR_2023_paper.pdf)
@@ -93,7 +95,6 @@
 
 ### Without_Error
 
-
 ### With_Error
 - [(ICML23) CaptainCook4D: A dataset for understanding errors in procedural activities](https://arxiv.org/pdf/2312.14556)
 - [(???) IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](https://arxiv.org/pdf/2310.17323.pdf)
@@ -118,6 +119,8 @@
 - [(ICCV21) Evidential Deep Learning for Open Set Action Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)
 
 ## Out-of-distribution_Detection
+- [(WACV24) ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Phan_ZEETAD_Adapting_Pretrained_Vision-Language_Model_for_Zero-Shot_End-to-End_Temporal_Action_WACV_2024_paper.pdf)
+- [(CVPR24) Learning Transferable Negative Prompts for Out-of-Distribution Detection](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Learning_Transferable_Negative_Prompts_for_Out-of-Distribution_Detection_CVPR_2024_paper.pdf)
 - [(CVPR24) Open-World Semantic Segmentation Including Class Similarity](https://openaccess.thecvf.com/content/CVPR2024/papers/Sodano_Open-World_Semantic_Segmentation_Including_Class_Similarity_CVPR_2024_paper.pdf)
 - [(Arxiv23) DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization](https://arxiv.org/pdf/2308.02282.pdf)
 - [(MICCAI23 Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos)](https://arxiv.org/pdf/2311.00469.pdf)
