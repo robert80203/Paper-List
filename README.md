@@ -32,7 +32,6 @@
 - [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
 
 ## Vision_Language_Model
-- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
 - [(ECCV24) LongVLM: Efficient Long Video Understanding via Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04936.pdf)
 - [(EMNLP23) Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?](https://aclanthology.org/2023.findings-emnlp.824.pdf)
 - [(NIPS23) Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
@@ -63,7 +62,6 @@
 - [(ICCV21) A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_A_Hybrid_Video_Anomaly_Detection_Framework_via_Memory-Augmented_Flow_Reconstruction_ICCV_2021_paper.pdf)
 - [(TPAMI21) A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://arxiv.org/pdf/2008.12328.pdf)
 ### Procedural_Error_Detection
-- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
 - [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
 - [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
 
