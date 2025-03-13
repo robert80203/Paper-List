@@ -29,6 +29,7 @@
 
 
 ## Error Reasoning
+- [(CVPR25) Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2502.07601)
 - [(NAACL25) ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding](https://arxiv.org/pdf/2410.22211)
 - [(NAACL25) LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](https://arxiv.org/pdf/2501.01767)
 - [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
