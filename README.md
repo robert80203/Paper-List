@@ -35,6 +35,7 @@
 - [(NAACL25) ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding](https://arxiv.org/pdf/2410.22211)
 - [(NAACL25) LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](https://arxiv.org/pdf/2501.01767)
 - [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
+- [(NIPS24) Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM](https://arxiv.org/pdf/2406.12235)
 
 ## Vision_Language_Model
 - [(ECCV24) LongVLM: Efficient Long Video Understanding via Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04936.pdf)
