@@ -22,7 +22,7 @@
 
 ## New papers
 - [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
-
+- [(CVPR24) From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_From_Pixels_to_Graphs_Open-Vocabulary_Scene_Graph_Generation_with_Vision-Language_CVPR_2024_paper.pdf)
 
 ## Must_Read
 - [(Arxiv24) Vision-Language Models as Success Detectors](https://arxiv.org/pdf/2303.07280)
