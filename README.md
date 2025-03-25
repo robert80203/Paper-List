@@ -21,6 +21,8 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
+- [(???) Graph-Based Multimodal and Multi-view Alignment for Keystep Recognition](https://arxiv.org/pdf/2501.04121)
+- [(???) VITED : Video Temporal Evidence Distillation](https://arxiv.org/pdf/2503.12855)
 - [(???) SPOC: Spatially-Progressing Object State Change Segmentation in Video](https://arxiv.org/pdf/2503.11953)
 - [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
 - [(CVPR24) From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_From_Pixels_to_Graphs_Open-Vocabulary_Scene_Graph_Generation_with_Vision-Language_CVPR_2024_paper.pdf)
