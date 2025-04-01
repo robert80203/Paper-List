@@ -21,6 +21,8 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
+- [(Arxiv24) Video Instruction Tuning with Synthetic Data](https://arxiv.org/pdf/2410.02713)
+- [(CVPR24) TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)
 - [(???) Graph-Based Multimodal and Multi-view Alignment for Keystep Recognition](https://arxiv.org/pdf/2501.04121)
 - [(???) SPOC: Spatially-Progressing Object State Change Segmentation in Video](https://arxiv.org/pdf/2503.11953)
 - [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
