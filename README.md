@@ -40,6 +40,7 @@
 
 
 ## Anomaly_Detection
+- [(CVPR25) AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP](https://arxiv.org/pdf/2503.06661)
 ### Error_Reasoning
 - [(CVPR25) VITED : Video Temporal Evidence Distillation](https://arxiv.org/pdf/2503.12855)
 - [(CVPR25) VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models](https://arxiv.org/pdf/2412.01095)
@@ -69,6 +70,7 @@
 - [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
 
 ## Video_Understanding
+- [(CVPR25) Progress-Aware Video Frame Captioning](https://arxiv.org/pdf/2412.02071)
 - [(CVPR24) TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)
 - [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
 ### Temporal_Action_Localization
