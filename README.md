@@ -5,12 +5,14 @@
 - [Visual_Language_Model](Visual_Language_Model)
 - [Diffusion](#Diffusion)
 - [Anomaly Detection](#Anomaly_Detection)
+   * [Error Reasoning](#Error_Reasoning)
    * [Anomaly_Detection_with_Diffusion_Model](#Anomaly_Detection_with_Diffusion_Model)
    * [Video_Anomaly_Detection](#Video_Anomaly_Detection)
    * [Procedural_Error_Detection](#Procedural_Error_Detection)
-- [Temporal Action Localization](#Temporal_Action_Localization)
-- [Temporal Action Segmentation](#Temporal_Action_Segmentation)
-- [Temporal Procedural Planning](#Temporal_Procedural_Planning)
+- [Video Understanding](#Video_Understanding)
+  * [Temporal Action Localization](#Temporal_Action_Localization)
+  * [Temporal Action Segmentation](#Temporal_Action_Segmentation)
+  * [Temporal Procedural Planning](#Temporal_Procedural_Planning)
 - [Procedural Learning Dataset](#Procedural_Learning_Dataset)
   * [Without Error](#Without_Error)
   * [With Error](#With_Error)
@@ -21,27 +23,8 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
-- [(Arxiv24) Video Instruction Tuning with Synthetic Data](https://arxiv.org/pdf/2410.02713)
-- [(CVPR24) TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)
-- [(???) Graph-Based Multimodal and Multi-view Alignment for Keystep Recognition](https://arxiv.org/pdf/2501.04121)
-- [(???) SPOC: Spatially-Progressing Object State Change Segmentation in Video](https://arxiv.org/pdf/2503.11953)
-- [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
-- [(CVPR24) From Pixels to Graphs: Open-Vocabulary Scene Graph Generation with Vision-Language Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_From_Pixels_to_Graphs_Open-Vocabulary_Scene_Graph_Generation_with_Vision-Language_CVPR_2024_paper.pdf)
-- [(ECCV24) ActionVOS: Actions as Prompts for Video Object Segmentation](https://arxiv.org/pdf/2407.07402)
-- [(ECCV24) AMEGO: Active Memory from long EGOcentric videos](https://arxiv.org/pdf/2409.10917)
 
 ## Must_Read
-- [(Arxiv24) Vision-Language Models as Success Detectors](https://arxiv.org/pdf/2303.07280)
-
-
-## Error Reasoning
-- [(CVPR25) VITED : Video Temporal Evidence Distillation](https://arxiv.org/pdf/2503.12855)
-- [(CVPR25) VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models](https://arxiv.org/pdf/2412.01095)
-- [(CVPR25) Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2502.07601)
-- [(NAACL25) ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding](https://arxiv.org/pdf/2410.22211)
-- [(NAACL25) LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](https://arxiv.org/pdf/2501.01767)
-- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
-- [(NIPS24) Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM](https://arxiv.org/pdf/2406.12235)
 
 ## Vision_Language_Model
 - [(ECCV24) LongVLM: Efficient Long Video Understanding via Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04936.pdf)
@@ -57,6 +40,14 @@
 
 
 ## Anomaly_Detection
+### Error_Reasoning
+- [(CVPR25) VITED : Video Temporal Evidence Distillation](https://arxiv.org/pdf/2503.12855)
+- [(CVPR25) VERA: Explainable Video Anomaly Detection via Verbalized Learning of Vision-Language Models](https://arxiv.org/pdf/2412.01095)
+- [(CVPR25) Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models](https://arxiv.org/pdf/2502.07601)
+- [(NAACL25) ProMQA: Question Answering Dataset for Multimodal Procedural Activity Understanding](https://arxiv.org/pdf/2410.22211)
+- [(NAACL25) LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction](https://arxiv.org/pdf/2501.01767)
+- [(Arxiv24) Explainable Procedural Mistake Detection](https://arxiv.org/pdf/2412.11927)
+- [(NIPS24) Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM](https://arxiv.org/pdf/2406.12235)
 ### Anomaly_Detection_with_Diffusion_Model
 - [(ICCV23) Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Unsupervised_Surface_Anomaly_Detection_with_Diffusion_Probabilistic_Model_ICCV_2023_paper.pdf)
 - [(ICIP23) EXPLORING DIFFUSION MODELS FOR UNSUPERVISED VIDEO ANOMALY DETECTION](https://arxiv.org/pdf/2304.05841.pdf) 
@@ -77,8 +68,10 @@
 - [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
 - [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
 
-
-## Temporal_Action_Localization
+## Video_Understanding
+- [(CVPR24) TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)
+- [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
+### Temporal_Action_Localization
 - [(???) TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055v1.pdf)
 - [(ECCV22) ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)
 - [(ICCV23) Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
@@ -87,18 +80,18 @@
 - [(ICCV23) Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Revisiting_Foreground_and_Background_Separation_in_Weakly-supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
 - [(ECCV22) Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)
 
-## Temporal_Action_Segmentation
+### Temporal_Action_Segmentation
 - [(ICCV23) Diffusion Action Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf)
-### Unsupervised
+#### Unsupervised
 - [(CVPR22) Unsupervised Action Segmentation by Joint Representation Learning and Online Clustering](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)
 - [(ICCV19) Weakly Supervised Energy-Based Learning for Action Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
-### Weakly-supversied
+#### Weakly-supversied
 - [(ECCV22) Dual-Evidential Learning for Weakly-supervised Temporal Action Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640190.pdf)
 - [(CVPR22) Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Ghoddoosian_Weakly-Supervised_Online_Action_Segmentation_in_Multi-View_Instructional_Videos_CVPR_2022_paper.pdf)
 - [(ICCV19) Weakly Supervised Energy-Based Learning for Action Segmentation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Weakly_Supervised_Energy-Based_Learning_for_Action_Segmentation_ICCV_2019_paper.pdf)
 
 
-## Temporal_Procedural_Planning
+### Temporal_Procedural_Planning
 - [(CVPR23) PDPP: Projected Diffusion for Procedure Planning in Instructional Videos](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_PDPPProjected_Diffusion_for_Procedure_Planning_in_Instructional_Videos_CVPR_2023_paper.pdf)
 
 ## Procedural_Learning_Dataset
