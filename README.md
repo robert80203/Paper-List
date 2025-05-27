@@ -10,6 +10,7 @@
    * [Video_Anomaly_Detection](#Video_Anomaly_Detection)
    * [Procedural_Error_Detection](#Procedural_Error_Detection)
 - [Video Understanding](#Video_Understanding)
+  * [Online Action Detection](#Online_Action_Detection)
   * [Temporal Action Localization](#Temporal_Action_Localization)
   * [Temporal Action Segmentation](#Temporal_Action_Segmentation)
   * [Temporal Procedural Planning](#Temporal_Procedural_Planning)
@@ -74,6 +75,9 @@
 - [(CVPR25) Progress-Aware Video Frame Captioning](https://arxiv.org/pdf/2412.02071)
 - [(CVPR24) TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)
 - [(CVPR24) Action Scene Graphs for Long-Form Understanding of Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Rodin_Action_Scene_Graphs_for_Long-Form_Understanding_of_Egocentric_Videos_CVPR_2024_paper.pdf)
+### Online_Action_Detection
+- [(ICCV23) MiniROAD: Minimal RNN Framework for Online Action Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/An_MiniROAD_Minimal_RNN_Framework_for_Online_Action_Detection_ICCV_2023_paper.pdf)
+- [(CVPR25) Context-Enhanced Memory-Refined Transformer for Online Action Detection](https://arxiv.org/pdf/2503.18359)
 ### Temporal_Action_Localization
 - [(???) TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055v1.pdf)
 - [(ECCV22) ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)
