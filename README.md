@@ -24,6 +24,8 @@
 - [Other interesting papers](#Other_Interesting_Papers)
 
 ## New papers
+- [(Arxiv25) StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)
+- [(CVPR25) VideoGLaMM : A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Munasinghe_VideoGLaMM__A_Large_Multimodal_Model_for_Pixel-Level_Visual_Grounding_CVPR_2025_paper.pdf)
 - [(CVPR25) PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_PHGC_Procedural_Heterogeneous_Graph_Completion_for_Natural_Language_Task_Verification_CVPR_2025_paper.pdf)
 
 ## Must_Read
