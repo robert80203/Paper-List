@@ -29,6 +29,7 @@
 - [(CVPR25) PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_PHGC_Procedural_Heterogeneous_Graph_Completion_for_Natural_Language_Task_Verification_CVPR_2025_paper.pdf)
 
 ## Must_Read
+- [(Arxiv25) Vision-Based Mistake Analysis in Procedural Activities: A Review of Advances and Challenges](https://www.arxiv.org/abs/2510.19292)
 
 ## Vision_Language_Model
 - [(ECCV24) LongVLM: Efficient Long Video Understanding via Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04936.pdf)
