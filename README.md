@@ -87,7 +87,6 @@
 - [(CVPR25) Context-Enhanced Memory-Refined Transformer for Online Action Detection](https://arxiv.org/pdf/2503.18359)
 ### Temporal_Action_Localization
 - (VLM, training-free)[(IEEE Access25) Open-Vocabulary Action Localization with Iterative Visual Prompting](https://arxiv.org/abs/2408.17422)
-- 
 - [(???) TemporalMaxer: Maximize Temporal Context with only Max Pooling for Temporal Action Localization](https://arxiv.org/pdf/2303.09055v1.pdf)
 - [(ECCV22) ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)
 - [(ICCV23) Learning from Noisy Pseudo Labels for Semi-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2023/papers/Xia_Learning_from_Noisy_Pseudo_Labels_for_Semi-Supervised_Temporal_Action_Localization_ICCV_2023_paper.pdf)
@@ -97,6 +96,7 @@
 - [(ECCV22) Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)
 
 ### Temporal_Action_Segmentation
+- (VLM, online)[(ICCV25) Memory-efficient Streaming VideoLLMs for Real-time Procedural Video Understanding](https://arxiv.org/abs/2504.13915)
 - [(ICCV23) Diffusion Action Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf)
 #### Unsupervised
 - [(CVPR22) Unsupervised Action Segmentation by Joint Representation Learning and Online Clustering](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)
