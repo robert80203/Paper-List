@@ -97,7 +97,7 @@
 - [(ECCV22) Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700562.pdf)
 
 ### Temporal_Action_Segmentation
-- (VLM, online)[(ICCV25) Streaming VideoLLMs for Real-time Procedural Video Understanding]([https://arxiv.org/abs/2504.13915](https://openaccess.thecvf.com/content/ICCV2025/papers/Chatterjee_Streaming_VideoLLMs_for_Real-Time_Procedural_Video_Understanding_ICCV_2025_paper.pdf))
+- (VLM, online)[(ICCV25) Streaming VideoLLMs for Real-time Procedural Video Understanding](https://openaccess.thecvf.com/content/ICCV2025/papers/Chatterjee_Streaming_VideoLLMs_for_Real-Time_Procedural_Video_Understanding_ICCV_2025_paper.pdf)
 - [(ICCV23) Diffusion Action Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Diffusion_Action_Segmentation_ICCV_2023_paper.pdf)
 #### Unsupervised
 - [(CVPR22) Unsupervised Action Segmentation by Joint Representation Learning and Online Clustering](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_Unsupervised_Action_Segmentation_by_Joint_Representation_Learning_and_Online_Clustering_CVPR_2022_paper.pdf)
