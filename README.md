@@ -28,6 +28,13 @@
 ## Must_Read
 - [(Arxiv26) EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874)
 - [(CVPR26F) Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_Active_Video_Perception_Iterative_Evidence_Seeking_for_Agentic_Long_Video_CVPRF_2026_paper.html)
+- [(CVPR26) InterRVOS: Interaction-Aware Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2026/papers/Jin_InterRVOS_Interaction-Aware_Referring_Video_Object_Segmentation_CVPR_2026_paper.pdf)
+- [(CVPR26) Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering](https://openaccess.thecvf.com/content/CVPR2026/papers/Choi_Do_You_See_What_I_Am_Pointing_At_Gesture-Based_Egocentric_CVPR_2026_paper.pdf)
+- [(CVPR26) Beyond Caption-Based Queries in Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2026/papers/Pujol-Perich_Beyond_Caption-Based_Queries_in_Video_Moment_Retrieval_CVPR_2026_paper.pdf)
+- [(CVPR26) PAS: A Training-Free Stabilizer for Temporal Encoding in Video LLMs](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_PAS_A_Training-Free_Stabilizer_for_Temporal_Encoding_in_Video_LLMs_CVPR_2026_paper.pdf)
+- [(CVPR26) Mario: Multimodal Graph Reasoning with Large Language Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Mario_Multimodal_Graph_Reasoning_with_Large_Language_Models_CVPR_2026_paper.pdf)
+- [(CVPR26) GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning](https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_GraphVLM_Benchmarking_Vision_Language_Models_for_Multimodal_Graph_Learning_CVPR_2026_paper.pdf)
+
 
 
 ## Vision_Language_Model
