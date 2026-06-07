@@ -23,16 +23,15 @@
 - [Fine-grained_Action_Dataset](#Fine-grained_Action_Dataset)
 - [Other interesting papers](#Other_Interesting_Papers)
 
-## New papers
-- [(Arxiv25) StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)
-- [(CVPR25) VideoGLaMM : A Large Multimodal Model for Pixel-Level Visual Grounding in Videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Munasinghe_VideoGLaMM__A_Large_Multimodal_Model_for_Pixel-Level_Visual_Grounding_CVPR_2025_paper.pdf)
-- [(CVPR25) PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_PHGC_Procedural_Heterogeneous_Graph_Completion_for_Natural_Language_Task_Verification_CVPR_2025_paper.pdf)
+
 
 ## Must_Read
-- [(Arxiv25) Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](https://arxiv.org/pdf/2511.20525)
-- [(Arxiv25) Vision-Based Mistake Analysis in Procedural Activities: A Review of Advances and Challenges](https://www.arxiv.org/abs/2510.19292)
+- [(Arxiv26) EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874)
+- [(CVPR26F) Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_Active_Video_Perception_Iterative_Evidence_Seeking_for_Agentic_Long_Video_CVPRF_2026_paper.html)
+
 
 ## Vision_Language_Model
+- [(Arxiv25) StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://arxiv.org/pdf/2505.05467)
 - [(ECCV24) LongVLM: Efficient Long Video Understanding via Large Language Models](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04936.pdf)
 - [(EMNLP23) Can Foundation Models Watch, Talk and Guide You Step by Step to Make a Cake?](https://aclanthology.org/2023.findings-emnlp.824.pdf)
 - [(NIPS23) Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485)
@@ -72,6 +71,8 @@
 - [(ICCV21) A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_A_Hybrid_Video_Anomaly_Detection_Framework_via_Memory-Augmented_Flow_Reconstruction_ICCV_2021_paper.pdf)
 - [(TPAMI21) A Background-Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video](https://arxiv.org/pdf/2008.12328.pdf)
 ### Procedural_Error_Detection
+- [(Arxiv25) Vision-Based Mistake Analysis in Procedural Activities: A Review of Advances and Challenges](https://www.arxiv.org/abs/2510.19292)
+- [(Arxiv25) Mistake Attribution: Fine-Grained Mistake Understanding in Egocentric Videos](https://arxiv.org/pdf/2511.20525)
 - [(CVPR25) Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2025/papers/Mazzamuto_Gazing_Into_Missteps_Leveraging_Eye-Gaze_for_Unsupervised_Mistake_Detection_in_CVPR_2025_paper.pdf)
 - [(CVPR24) PREGO: online mistake detection in PRocedural EGOcentric videos](https://arxiv.org/pdf/2404.01933.pdf)
 - [(NIPS24) Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos](https://arxiv.org/pdf/2406.01486)
