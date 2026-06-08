@@ -26,6 +26,9 @@
 
 
 ## Must_Read
+- [(CVPR26) Video Panels for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2026/papers/Doorenbos_Video_Panels_for_Long_Video_Understanding_CVPR_2026_paper.pdf)
+- [(CVPR26) The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition](https://openaccess.thecvf.com/content/CVPR2026/papers/Tan_The_LLM_Bottleneck_Why_Open-Source_Vision_LLMs_Struggle_with_Hierarchical_CVPR_2026_paper.pdf)
+- [(CVPR26) VIKEY: Enhancing Temporal Understanding in Videos via Visual Prompting](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_ViKey_Enhancing_Temporal_Understanding_in_Videos_via_Visual_Prompting_CVPR_2026_paper.pdf)
 - [(Arxiv26) EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding](https://arxiv.org/abs/2605.09874)
 - [(CVPR26F) Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2026F/html/Wang_Active_Video_Perception_Iterative_Evidence_Seeking_for_Agentic_Long_Video_CVPRF_2026_paper.html)
 - [(CVPR26) InterRVOS: Interaction-Aware Referring Video Object Segmentation](https://openaccess.thecvf.com/content/CVPR2026/papers/Jin_InterRVOS_Interaction-Aware_Referring_Video_Object_Segmentation_CVPR_2026_paper.pdf)
