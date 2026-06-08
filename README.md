@@ -26,6 +26,7 @@
 
 
 ## Must_Read
+- [(CVOR26) HanDyVQA: A Video QA Benchmark for Fine-Grained Hand-Object Interaction Dynamics](https://openaccess.thecvf.com/content/CVPR2026/html/Tateno_HanDyVQA_A_Video_QA_Benchmark_for_Fine-Grained_Hand-Object_Interaction_Dynamics_CVPR_2026_paper.html)
 - [(CVPR26) Video Panels for Long Video Understanding](https://openaccess.thecvf.com/content/CVPR2026/papers/Doorenbos_Video_Panels_for_Long_Video_Understanding_CVPR_2026_paper.pdf)
 - [(CVPR26) The LLM Bottleneck: Why Open-Source Vision LLMs Struggle with Hierarchical Visual Recognition](https://openaccess.thecvf.com/content/CVPR2026/papers/Tan_The_LLM_Bottleneck_Why_Open-Source_Vision_LLMs_Struggle_with_Hierarchical_CVPR_2026_paper.pdf)
 - [(CVPR26) VIKEY: Enhancing Temporal Understanding in Videos via Visual Prompting](https://openaccess.thecvf.com/content/CVPR2026/papers/Lee_ViKey_Enhancing_Temporal_Understanding_in_Videos_via_Visual_Prompting_CVPR_2026_paper.pdf)
